@@ -3,14 +3,18 @@
 ==========
     ======
 - Pat
-    Pat quelqu'un. Utilisation: **!pat [@user]
+    Pat quelqu'un.
+            Utilisation: !pat [@user]
     ======
 - Slap
-    Claquez quelqu'un. Utilisation: **!slap [@user]
+    Claquez quelqu'un.
+            Utilisation: !slap [@user]
     ======
 - Hug
-    Faites un calin à quelqu'un. Utilisation: **!hug [@user]
+    Faites un calin à quelqu'un.
+            Utilisation: !hug [@user]
     ======
 - Kiss
-    Embrassez quelqu'un. Utilisation: **!kiss [@user]
+    Embrassez quelqu'un.
+            Utilisation: !kiss [@user]
     ======
