@@ -1,0 +1,16 @@
+==========
+# ACTION #
+==========
+    ======
+- Pat
+    Pat quelqu'un. Utilisation: **!pat [@user]
+    ======
+- Slap
+    Claquez quelqu'un. Utilisation: **!slap [@user]
+    ======
+- Hug
+    Faites un calin à quelqu'un. Utilisation: **!hug [@user]
+    ======
+- Kiss
+    Embrassez quelqu'un. Utilisation: **!kiss [@user]
+    ======
