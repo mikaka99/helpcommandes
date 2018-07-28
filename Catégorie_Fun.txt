@@ -1,0 +1,24 @@
+======================================================
+#Fun#
+======================================================
+======================================================
+= Cookie
+    Donnez un cookie a quelqu'un
+        Utilisation: !cookie [@user]
+======================================================
+= Dog
+    Envoie une image de chien random
+        Utilisation: !dog
+======================================================
+= Neko
+    Envoie une image de chat random
+        Utilisation: !neko
+======================================================
+= Meme
+    Envoie une image de meme random
+        Utilisation: !meme
+======================================================
+= Rem
+    Envoie une image de Rem random
+        Utilisation: !rem
+======================================================
