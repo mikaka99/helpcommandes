@@ -1,0 +1,20 @@
+============
+# Economie #
+============
+    ========
+- Daily
+    Amassez votre prime du jour.
+        Utilisation: !daily | !dailies
+    ========
+- Balance
+    Regardez votre porte-feuilles. 
+        Utilisation: !balance | !bal
+    ========
+- Work
+    Travaillez pour gagner de l'argent.
+        Utilisation: !work
+    ========
+- Level
+    Regardez votre niveau actuel.
+        Utilisation: !xp | !level | !lvl
+    ========
