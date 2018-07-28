@@ -16,5 +16,5 @@
 ======================================================
 = Level
     Regardez votre niveau actuel.
-        Utilisation: !xp | !level | !lvl
+        Utilisation: !xp | !level | !lvl | !exp
 ======================================================
