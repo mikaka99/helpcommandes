@@ -1,0 +1,16 @@
+======================================================
+# Utile #
+======================================================
+======================================================
+= Avatar
+    Affiche votre avatar ou celui de quelqu'un d'autre.
+        Utilisation: !avatar [@user]
+======================================================
+= Calculatrice
+    Besoins de faire un calcul? Utilisez une calculatrice!
+        Utilisation: !math | !calc
+======================================================
+= Communauté
+    Affiche des infos sur la communauté.
+        Utilisation: !serverinfo | !commu
+======================================================
