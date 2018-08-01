@@ -1,6 +1,10 @@
 ======================================================
-#Jeux#
+# Jeux #
 ======================================================
+======================================================
+= Answer
+    Le bot vous répond par "Oui" ou par "Non".
+        Utilisation: !answer
 ======================================================
 = Coinflip
     Pile ou face, à vous de choisir.
@@ -9,10 +13,6 @@
 = Quiz
     Testez vos connaissances avec ces questions.
         Utilisation: !quiz
-======================================================
-= Answer
-    Le bot vous répond par "Oui" ou par "Non".
-        Utilisation: !answer
 ======================================================
 = Pop
     Eclatez des bulles sur ce papier à bulles. Chaque bulle s'ajoute aux autres!
