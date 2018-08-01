@@ -1,1 +1,24 @@
-
+======================================================
+#Jeux#
+======================================================
+======================================================
+= Coinflip
+    Pile ou face, à vous de choisir.
+        Utilisation: !coinflip | !cf
+======================================================
+= Quiz
+    Testez vos connaissances avec ces questions.
+        Utilisation: !quiz
+======================================================
+= Answer
+    Le bot vous répond par "Oui" ou par "Non".
+        Utilisation: !answer
+======================================================
+= Pop
+    Eclatez des bulles sur ce papier à bulles. Chaque bulle s'ajoute aux autres!
+        Utilisation: !pop | !bulle | !bulles
+======================================================
+= Dice
+    Jetez un dé à 6 faces.
+        Utilisation: !dice
+======================================================
