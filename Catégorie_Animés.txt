@@ -6,3 +6,7 @@
     Faites apparaitre une image de "Rem".
         Utilisation: !rem
 ======================================================
+= Zero Tsu
+    Faites apparaitre une image de "Zero Tsu".
+        Utilisation: !002 | !02 | !zerotsu
+======================================================
