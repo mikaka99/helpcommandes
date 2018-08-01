@@ -2,13 +2,13 @@
 # Economie #
 ======================================================
 ======================================================
-= Daily
-    Amassez votre prime du jour.
-        Utilisation: !daily | !dailies
-======================================================
 = Balance
     Regardez votre porte-feuilles. 
         Utilisation: !balance | !bal
+======================================================
+= Daily
+    Amassez votre prime du jour.
+        Utilisation: !daily | !dailies
 ======================================================
 = Work
     Travaillez pour gagner de l'argent.
